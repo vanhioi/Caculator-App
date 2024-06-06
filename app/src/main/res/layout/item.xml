@@ -9,7 +9,7 @@
         android:id="@+id/txtInput"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textSize="40sp"
+        android:textSize="50sp"
         android:textColor="@color/black"
         android:padding="10dp"
         android:layout_gravity="end"/>
